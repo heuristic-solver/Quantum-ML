@@ -18,6 +18,9 @@ Calculate classical probabilities using Euclidean distances.
 Create and simulate a quantum circuit for the quantum k-NN algorithm.
 Compare classical and quantum results.
 
+![image](https://github.com/user-attachments/assets/7a26e687-ce79-4d84-83bc-30319ee9db08)
+
+
 # Usage:
 
 Install Qiskit and other required libraries:
