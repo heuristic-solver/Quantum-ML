@@ -45,6 +45,9 @@ Apply Hadamard and CNOT gates to create entanglement.
 Measure the qubits and save the state vector.
 Run the simulation and plot the results.
 
+![image](https://github.com/user-attachments/assets/9d9b732e-d185-4b02-a34a-9a9867afccb7)
+
+
 # Usage:
 
     
