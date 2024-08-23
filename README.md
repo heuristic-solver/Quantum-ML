@@ -1,4 +1,4 @@
-# Quantum Computing Projects
+# <p align="center">Quantum Computing Projects</p>
 
 Welcome to my GitHub profile! This repository contains a collection of my quantum computing projects using Qiskit. Below are descriptions of two key projects included in this repository.
 Projects
